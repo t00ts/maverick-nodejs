@@ -1,0 +1,75 @@
+[
+  {
+    "PlaceBet": {
+      "host": "www.bet365.es",
+      "id": "0dd700b3-0a9c-452e-b3f6-c0228f9492aa",
+      "multi": [
+        {
+          "market": {
+            "Score": [
+              1,
+              2
+            ]
+          },
+          "match": {
+            "Url": "https://www.bet365.es/#/AC/B1/C1/D8/E161190320/F3/"
+          },
+          "odds": {
+            "base": 23.0,
+            "tolerance": 0.1
+          },
+          "tf": "FullTime"
+        },
+        {
+          "market": {
+            "Score": [
+              3,
+              2
+            ]
+          },
+          "match": {
+            "Url": "https://www.bet365.es/#/AC/B1/C1/D8/E161190309/F3/I1/"
+          },
+          "odds": {
+            "base": 34.0,
+            "tolerance": 0.1
+          },
+          "tf": "FullTime"
+        },
+        {
+          "market": {
+            "Score": [
+              2,
+              2
+            ]
+          },
+          "match": {
+            "Url": "https://www.bet365.es/#/AC/B1/C1/D8/E161190315/F3/"
+          },
+          "odds": {
+            "base": 40.0,
+            "tolerance": 0.1
+          },
+          "tf": "FirstHalf"
+        },
+        {
+          "market": {
+            "Score": [
+              0,
+              0
+            ]
+          },
+          "match": {
+            "Url": "https://www.bet365.es/#/AC/B1/C1/D8/E161190989/F3/"
+          },
+          "odds": {
+            "base": 2.6,
+            "tolerance": 0.1
+          },
+          "tf": "FirstHalf"
+        }
+      ],
+      "stake": 0.05
+    }
+  }
+]
